@@ -21,10 +21,10 @@
 ## Usage
 
 This is the link to the application's repository: 
- https://github.com/arceojoshua1994/challenge-2-portfolio
+    https://github.com/arceojoshua1994/challenge-3-Password-Generator
 
 This is the link to the live application:
- https://arceojoshua1994.github.io/challenge-2-portfolio/ 
+    https://arceojoshua1994.github.io/challenge-3-Password-Generator/ 
 
 ## Credits
 
